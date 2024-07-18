@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584455167324",
+    "project_id": "you-tube-tutorial-for-firebase",
+    "storage_bucket": "you-tube-tutorial-for-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584455167324:android:9db5b70e8177f838677599",
+        "android_client_info": {
+          "package_name": "com.exam.youtube_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuknKIWV_CN7qwrkqMPSrXF75vXELxpTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
